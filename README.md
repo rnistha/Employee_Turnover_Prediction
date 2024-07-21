@@ -82,4 +82,5 @@ To get started with the project, follow these steps:
     ```bash
     streamlit run predict.py
     ```
-    This will start the Streamlit server and open the application in your web browser. You can interact with the app by adjusting the input features on the sidebar and clicking the "Predict" button to see the prediction results.
+    
+This will start the Streamlit server and open the application in your web browser. You can interact with the app by adjusting the input features on the sidebar and clicking the "Predict" button to see the prediction results.
